@@ -12,7 +12,7 @@ gem 'sass-rails'
 gem 'inuicon-rails'
 ```
 
-2) Add this to your `base.css.sass`:
+2) Add this to your Sass file:
 
 ```sass
 @import inuicon
