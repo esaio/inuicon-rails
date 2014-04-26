@@ -1,0 +1,3 @@
+[submodule "vendor/assets/fonts"]
+	path = vendor/assets/fonts
+	url = git@github.com:taea/inuicon-fonts.git
