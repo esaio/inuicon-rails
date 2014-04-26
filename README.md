@@ -1,6 +1,6 @@
 # inuicon-rails
 
-Icon web font ~~with ligature~~ (used in pplog.net) https://taea.github.io/inuicon/demo.html
+Icon web font for Rails (used in pplog.net) https://taea.github.io/inuicon/demo.html
 
 ## Installation
 
