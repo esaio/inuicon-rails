@@ -8,7 +8,7 @@ Gem::Specification.new do |gem|
   gem.summary       = %q{Icon web font for Rails (used in pplog.net) https://taea.github.io/inuicon/demo.html}
   gem.homepage      = "https://github.com/taea/inuicon-rails"
 
-  gem.files         = Dir["{lib,vendor}/**/*"] + ["MIT-LICENSE", "README.md"]
+  gem.files         = Dir["{app,lib}/**/*"] + ["MIT-LICENSE", "README.md"]
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
   gem.test_files    = gem.files.grep(%r{^(test|spec|features)/})
   gem.name          = "inuicon-rails"
