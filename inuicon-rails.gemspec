@@ -15,5 +15,5 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
   gem.version       = InuiconRails::VERSION
 
-  gem.add_dependency "sass-rails"
+  gem.add_dependency "sassc-rails"
 end

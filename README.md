@@ -8,7 +8,6 @@ Icon web font for Rails (used in pplog.net) https://taea.github.io/inuicon/demo.
 
 ```ruby
 # Assets
-gem 'sass-rails'
 gem 'inuicon-rails'
 ```
 
