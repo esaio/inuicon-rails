@@ -3,7 +3,7 @@
 Icon web font for Rails (used in pplog.net) 
 https://github.com/esaio/inuicon
 
-![image.png (180.7 kB)](https://img.esa.io/uploads/production/attachments/3/2019/12/12/2/0c85c73d-2e07-4311-8ef6-bb60abf5c9a3.png)
+<img alt="inuicon list" src="https://img.esa.io/uploads/production/attachments/3/2021/10/21/2/36ac6404-addf-43b7-bc03-f0e99966be39.png">
 
 
 ## Installation
